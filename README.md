@@ -6,3 +6,5 @@ this is the second revision of readme file. it is used to test out code patching
 
 
 this is the third edition of the readme file, to test out pull requests. 
+
+this is amended by creating a new branch for readme edits, and use this to pull requests and merge back to the main branch. 
